@@ -1,6 +1,6 @@
-#projects{
+#intro{
     text-align: center;
-    background: linear-gradient(#42e3cd 0%,#137e87 100%);
+    background: linear-gradient(#ffc7fd 0%,#195e87 100%);
     background-repeat: no-repeat;
     width: 2020;
     height:510;
@@ -9,7 +9,7 @@ color:darkblue;
 }
 #projects{
     text-align: center;
-    background: linear-gradient(#ffc7fd 0%,#195e87 100%);
+    background: linear-gradient(#42e3cd 0%,#137e87 100%);
     background-repeat: no-repeat;
     width: 2020;
     height:510;
