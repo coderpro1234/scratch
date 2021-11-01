@@ -15,3 +15,11 @@ color:darkblue;
     background-repeat: no-repeat;
     z-index: 9;
 }
+#links{
+    background: linear-gradient(#fb6000 0%,#fbf200 100%);
+        width:2020 ;
+    height:510;
+    text-align: center;
+    background-repeat: no-repeat;
+    z-index: 9;
+}
