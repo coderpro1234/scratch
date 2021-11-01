@@ -4,17 +4,6 @@
     background-repeat: no-repeat;
     width: 2020;
     height:510;
-    font-size: 25;
-    z-index: 9;
-color:darkblue;
-}
-
-#projects{
-    text-align: center;
-    background: linear-gradient(#42e3cd 0%,#137e87 100%);
-    background-repeat: no-repeat;
-    width: 2020;
-    height:510;
-    font-size: 25;    
+    font-size:25;
 color:darkblue;
 }
