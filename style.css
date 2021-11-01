@@ -14,6 +14,7 @@ color:darkblue;
     text-align: center;
     background-repeat: no-repeat;
     z-index: 9;
+    color:darkblue;
 }
 #links{
     background: linear-gradient(#fb6000 0%,#fbf200 100%);
@@ -21,4 +22,5 @@ color:darkblue;
     height:510;
     text-align: center;
     background-repeat: no-repeat;
+    color:darkblue;
 }
