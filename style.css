@@ -7,3 +7,11 @@
     font-size: 25;    
 color:darkblue;
 }
+#intro{
+    background: linear-gradient(#ffc7fd 0%,#195e87 100%);
+        width:2020 ;
+    height:510;
+    text-align: center;
+    background-repeat: no-repeat;
+    z-index: 9;
+}
