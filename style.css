@@ -1,18 +1,7 @@
-#projects{
-    background: linear-gradient(#42e3cd 0%,#137e87 100%);
-    background-repeat: no-repeat;
-}
-#intro{
-    background: linear-gradient(#ffc7fd 0%,#195e87 100%);
-    background-repeat: no-repeat;
-    z-index: 9;
-}
-#links{
-    background: linear-gradient(#fb6000 0%,#fbf200 100%);
-    background-repeat: no-repeat;
-}
 #all{
     text-align: center;
-    font-size: 25;
-    color:darkblue;
+    background: linear-gradient(#5d41ea 0%,#dc00ec 100%);
+    background-repeat: no-repeat;
+    font-size: 25;    
+color:darkblue;
 }
